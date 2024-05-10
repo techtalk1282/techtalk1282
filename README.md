@@ -1,6 +1,6 @@
 <h1> Welcome! JC Portfolio <br/><a href="https://github.com/joshmadakor1">Cybersecurity</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Networking </a>, <a href="https://www.youtube.com/c/joshmadakor">Cloud</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
